@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/java101.iml" filepath="$PROJECT_DIR$/java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" filepath="$PROJECT_DIR$/kdvHesaplama/kdvHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/notOrtalama/notOrtalama.iml" filepath="$PROJECT_DIR$/notOrtalama/notOrtalama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taksimetreHesap/taksimetreHesap.iml" filepath="$PROJECT_DIR$/taksimetreHesap/taksimetreHesap.iml" />
     </modules>
   </component>
 </project>
