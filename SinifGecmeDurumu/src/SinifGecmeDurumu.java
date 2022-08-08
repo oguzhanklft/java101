@@ -38,7 +38,7 @@ public class SinifGecmeDurumu {
         }
         else {
             System.out.println("Sınıfı geçtiniz. Tebrikler :)");
-
         }
+        System.out.println("Ortalamanız: "+ortalama);
     }
 }
