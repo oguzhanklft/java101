@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EtkinlikOnerme/EtkinlikOnerme.iml" filepath="$PROJECT_DIR$/EtkinlikOnerme/EtkinlikOnerme.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
