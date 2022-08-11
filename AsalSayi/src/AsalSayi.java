@@ -1,10 +1,8 @@
-import java.util.Scanner;
 
 public class AsalSayi {
     public static void main(String[] args) {
         int counter = 0,number,i;
 
-        Scanner inp = new Scanner(System.in);
 
         for(number=2;number<=100; number++){
             boolean remind=true;
