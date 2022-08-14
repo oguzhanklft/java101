@@ -1,10 +1,23 @@
-public class DersNotlari {
-    static int as(int i) {
-        if (i < 2) return 1;
-        else return (i * as(i - 1));
+public class DersNotlari
+{
+    public DersNotlari()
+    {
+        System.out.println("1");
+        new DersNotlari(10);
+        System.out.println("5");
+    }
+    public DersNotlari(int temp)
+    {
+        System.out.println("2");
+        new DersNotlari(10, 20);
+        System.out.println("4");
+    }
+    public DersNotlari(int data, int temp)
+    {
+        System.out.println("3");
     }
 
     public static void main(String[] args) {
-        System.out.println(as(3));
+        DersNotlari obj = new DersNotlari();
     }
-    }
+}
